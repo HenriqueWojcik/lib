@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1016828926/next_plugin_example.iml" filepath="$PROJECT_DIR$/.idea/modules/-1016828926/next_plugin_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1669427860/next_plugin_example.app.iml" filepath="$PROJECT_DIR$/.idea/modules/1669427860/next_plugin_example.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/212714892/next_plugin_example.core.iml" filepath="$PROJECT_DIR$/.idea/modules/212714892/next_plugin_example.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/next_plugin_example.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/next_plugin_example.lib.iml" />
+    </modules>
+  </component>
+</project>
